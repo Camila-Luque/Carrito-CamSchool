@@ -1,2 +1,2 @@
 :HL["/Carrito-CamSchool/_next/static/chunks/37hgu6naet0gg.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"vh1E6QotooEnVcIUPSF69"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"BkKA--TiVI_2jfT7x-sR6"}
