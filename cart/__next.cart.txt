@@ -2,4 +2,4 @@
 2:I[39756,["/Carrito-CamSchool/_next/static/chunks/16bh_agkm7on_.js","/Carrito-CamSchool/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
 3:I[37457,["/Carrito-CamSchool/_next/static/chunks/16bh_agkm7on_.js","/Carrito-CamSchool/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"toGX6bO8xjjSI8VOqXjBl"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"dD80-EObq-A4w0JLlsTG3"}
