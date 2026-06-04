@@ -1,11 +1,17 @@
 /** @type {import('next').NextConfig} */
+const isProd = process.env.NODE_ENV === "production";
+const repo = "Carrito-CamSchool";
+
 const nextConfig = {
   reactStrictMode: true,
-  output: "export",
-  basePath: "/Carrito-de-compras-utiles-escolares",
-  images: {
-    unoptimized: true,
+  ...(isProd && {
+    output: "export",
+    basePath: `/${repo}`,
+    images: { unoptimized: true },
+  }),
+  env: {
+    NEXT_PUBLIC_BASE_PATH: isProd ? `/${repo}` : "",
   },
 };
 
-module.exports = nextConfig;
+export default nextConfig;
