@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/@stryker-mutator/core/schema/stryker-schema.json",
+  "testRunner": "vitest",
+  "reporters": ["html", "clear-text", "progress"],
+  "mutate": ["src/lib/**/*.ts", "!src/lib/**/*.{test,spec}.ts", "!src/lib/products.ts"],
+  "concurrency": 4,
+  "thresholds": { "high": 85, "low": 70, "break": null },
+  "htmlReporter": { "fileName": "reports/mutation/index.html" },
+  "timeoutMS": 60000
+}
